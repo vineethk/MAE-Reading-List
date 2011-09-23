@@ -1,0 +1,282 @@
+References 
+
+[Abadi1999] Martin Abadi, Anindya Banerjee, Nevin Heintze, and Jon G. Riecke.
+    A core calculus of dependency. In Proceedings of the 26th ACM
+    SIGPLAN-SIGACT symposium on Principles of programming
+    languages, POPL ’99, pages 147–160, New York, NY, USA, 1999.
+    ACM.
+
+[Agat2000] Johan Agat. Transforming out timing leaks. In Proceedings of the 27th
+    ACM SIGPLAN-SIGACT symposium on Principles of programming
+    languages, POPL ’00, pages 40–53, New York, NY, USA, 2000. ACM.
+    
+[Amtoft2007] Torben Amtoft and Anindya Banerjee. A logic for information flow
+    analysis with an application to forward slicing of simple imperative
+    programs. Sci. Comput. Program., 64:3–28, January 2007.
+    
+[Askarov2008] Aslan Askarov, Sebastian Hunt, Andrei Sabelfeld, and David Sands.
+    Termination-Insensitive noninterference leaks more than just a bit. In
+    Proceedings of the 13th European Symposium on Research in Computer
+    Security: Computer Security, ESORICS ’08, pages 333–348, Berlin,
+    Heidelberg, 2008. Springer-Verlag.
+
+[Austin2009] Thomas H. Austin and Cormac Flanagan. Efficient purely-dynamic
+    information flow analysis. SIGPLAN Not., 44:20–31, December 2009.
+
+[Bao2010] Tao Bao, Yunhui Zheng, Zhiqiang Lin, Xiangyu Zhang, and Dongyan
+    Xu. Strict control dependence and its effect on dynamic information
+    flow analyses. In Proceedings of the 19th international symposium on
+    Software testing and analysis, ISSTA ’10, pages 13–24, New York, NY,
+    USA, 2010. ACM.
+
+[Barthe2007] Gilles Barthe, Tamara Rezk, and Amitabh Basu. Security types
+     preserving compilation. Comput. Lang. Syst. Struct., 33(2):35–59,
+     2007.
+
+[Barthe2006] Gilles Barthe, Tamara Rezk, and Martijn Warnier. Preventing timing
+     leaks through transactional branching instructions. Electron. Notes
+     Theor. Comput. Sci., 153:33–55, May 2006.
+
+[Bonelli2005] Eduardo Bonelli, Adriana Compagnoni, and Ricardo Medel.
+     Information flow analysis for a typed assembly language with
+     polymorphic stacks. In Proceedings of CASSIS’05, volume 3956 of
+     Lecture Notes in Computer Science, pages 37–56, 2005.
+
+[Bortz2007] Andrew Bortz and Dan Boneh. Exposing private information by
+     timing web applications. In Proceedings of the 16th international
+     conference on World Wide Web, WWW ’07, pages 621–628, New York,
+     NY, USA, 2007. ACM.
+
+[Boudol2001] Gérard Boudol and Ilaria Castellani. Noninterference for concurrent
+     programs. In Proceedings of the 28th International Colloquium on
+     Automata, Languages and Programming,, ICALP ’01, pages 382–395,
+     London, UK, 2001. Springer-Verlag.
+
+[Brumley] David Brumley and Dan Boneh. Remote timing attacks are practical.
+     In Proceedings of the 12th conference on USENIX Security Symposium
+     - Volume 12, page 1, Berkeley, CA, USA, 2003. USENIX Association.
+
+[Capizzi2008] Roberto Capizzi, Antonio Longo, V. N. Venkatakrishnan, and
+     A. Prasad Sistla. Preventing information leaks through shadow
+     executions. pages 322–331, December 2008.
+
+[Cavallaro2008] Lorenzo Cavallaro, Prateek Saxena, and R. Sekar. On the limits of
+     information flow techniques for malware analysis and containment. In
+     Proceedings of the 5th international conference on Detection of
+     Intrusions and Malware, and Vulnerability Assessment, volume 5137 of
+     DIMVA ’08, pages 143–163, Berlin, Heidelberg, 2008. Springer-Verlag.
+
+[Chugh2009] Ravi Chugh, Jeffrey A. Meister, Ranjit Jhala, and Sorin Lerner. Staged
+     information flow for javascript. SIGPLAN Not., 44:50–62, June 2009.
+
+[Denning1976] Dorothy E. Denning. A lattice model of secure information flow.
+     Commun. ACM, 19(5):236–243, May 1976.
+
+[Denning1977] Dorothy E. Denning and Peter J. Denning. Certification of programs
+     for secure information flow. Commun. ACM, 20(7):504–513, July 1977.
+
+[Devriese2010] Dominique Devriese and Frank Piessens. Noninterference through
+     secure multi-execution. In Proceedings of the 2010 IEEE Symposium
+     on Security and Privacy, SP ’10, pages 109–124, Washington, DC,
+     USA, 2010. IEEE Computer Society.
+
+[Focardi2002] R. Focardi, R. Gorrieri, R. Lanotte, A. Maggioloschettini,
+     F. Martinelli, S. Tini, and E. Tronci. Formal models of timing attacks
+     on web privacy. Electronic Notes in Theoretical Computer Science,
+     62:229–243, June 2002.
+
+[Goguen1982] J. A. Goguen and J. Meseguer. Security policies and security models.
+     Security and Privacy, IEEE Symposium on, 0:11+, 1982.
+
+[Hammer2006] Christian Hammer. Information flow control for java based on path
+     conditions in dependence graphs. In In IEEE International Symposium
+     on Secure Software Engineering, 2006.
+
+[James2009] Newso James, Stephen McCamant, and Dawn Song. Measuring
+     channel capacity to distinguish undue influence. In Proceedings of the
+     ACM SIGPLAN Fourth Workshop on Programming Languages and
+     Analysis for Security, PLAS ’09, pages 73–85, New York, NY, USA,
+     2009. ACM.
+
+[Jang2010] Dongseok Jang, Ranjit Jhala, Sorin Lerner, and Hovav Shacham. An
+     empirical study of privacy-violating information flows in JavaScript
+     web applications. In Proceedings of the 17th ACM conference on
+     Computer and communications security, CCS ’10, pages 270–283, New
+     York, NY, USA, 2010. ACM.
+
+[King2008] Dave King, Boniface Hicks, Michael Hicks, and Trent Jaeger. Implicit
+     flows: Can’t live with ‘em, can’t live without ‘em. 2008.
+
+[Li2005] Peng Li and Steve Zdancewic. Downgrading policies and relaxed
+     noninterference. In Proceedings of the 32nd ACM SIGPLAN-SIGACT
+     symposium on Principles of programming languages, POPL ’05, pages
+     158–170, New York, NY, USA, 2005. ACM.
+
+[Li2006] Peng Li and Steve Zdancewic. Encoding information flow in haskell. In
+     Proceedings of the 19th IEEE workshop on Computer Security
+     Foundations, Washington, DC, USA, 2006. IEEE Computer Society.
+
+[Magazinius2010] Jonas Magazinius, Ro Russo, and Andrei Sabelfeld. On-the-fly inlining
+     of dynamic security monitors. In In Proc. IFIP International
+     Information Security Conference, 2010.
+
+[Russo] A. Russo and A. Sabelfeld. Securing interaction between threads and
+     the scheduler. pages 177–189.
+
+[Russo2008] Alejandro Russo, Koen Claessen, and John Hughes. A library for
+     light-weight information-flow security in haskell. In Proceedings of the
+     first ACM SIGPLAN symposium on Haskell, Haskell ’08, pages 13–24,
+     New York, NY, USA, 2008. ACM.
+
+[Russo2007] Alejandro Russo and Andrei Sabelfeld. Security for multithreaded
+     programs under cooperative scheduling. In Proceedings of the 6th
+     international Andrei Ershov memorial conference on Perspectives of
+     systems informatics, PSI’06, pages 474–480, Berlin, Heidelberg, 2007.
+     Springer-Verlag.
+
+[Russo2010] Alejandro Russo and Andrei Sabelfeld. Dynamic vs. static
+     Flow-Sensitive security analysis. In Proceedings of the 2010 23rd IEEE
+     Computer Security Foundations Symposium, volume 0 of CSF ’10,
+     pages 186–199, Washington, DC, USA, 2010. IEEE Computer Society.
+
+[Sabelfeld2003] A. Sabelfeld and A. C. Myers. Language-based information-flow
+     security. Selected Areas in Communications, IEEE Journal on,
+     21(1):5–19, January 2003.
+
+[Sabelfeld2000] Andrei Sabelfeld and David Sands. Probabilistic noninterference for
+     Multi-Threaded programs. In Proceedings of the 13th IEEE workshop
+     on Computer Security Foundations, Washington, DC, USA, 2000.
+     IEEE Computer Society.
+
+[Sampson2011] Adrian Sampson, Werner Dietl, Emily Fortuna, Danushen
+     Gnanapragasam, Luis Ceze, and Dan Grossman. EnerJ: approximate
+     data types for safe and general low-power computation. SIGPLAN
+     Not., 46:164–174, June 2011.
+
+[Shroff] Paritosh Shroff and Scott F. Smith. Securing timing channels at
+     runtime.
+
+[Smith2001] Geoffrey Smith. A new type system for secure information flow. In
+     CSFW ’01: Proceedings of the 14th IEEE workshop on Computer
+     Security Foundations, pages 115+, Washington, DC, USA, 2001. IEEE
+     Computer Society.
+
+[Smith2007] Geoffrey Smith. Principles of secure information flow analysis. In
+     Mihai Christodorescu, Somesh Jha, Douglas Maughan, Dawn Song,
+     and Cliff Wang, editors, Malware Detection, volume 27 of Advances in
+     Information Security, chapter 13, pages 291–307. Springer US, Boston,
+     MA, 2007.
+
+[Smith2006] Scott F. Smith and Mark Thober. Refactoring programs to secure
+     information flows. In Proceedings of the 2006 workshop on
+     Programming languages and analysis for security, PLAS ’06, pages
+     75–84, New York, NY, USA, 2006. ACM.
+
+[Tse2007] Stephen Tse and Steve Zdancewic. Run-time principals in
+     information-flow type systems. ACM Trans. Program. Lang. Syst., 30,
+     November 2007.
+
+[Vachharajani2004] Neil Vachharajani, Matthew J. Bridges, Jonathan Chang, Ram
+     Rangan, Guilherme Ottoni, A. Blo Jason, George A. Reis, Manish
+     Vachharajani, and David I. August. RIFLE: An architectural
+     framework for User-Centric Information-Flow security. In Proceedings
+     of the 37th annual IEEE/ACM International Symposium on
+     Microarchitecture, MICRO 37, pages 243–254, Washington, DC, USA,
+     2004. IEEE Computer Society.
+
+[Vogt2007] Philipp Vogt, Florian Nentwich, Nenad Jovanovic, Engin Kirda,
+     Christopher Kruegel, and Giovanni Vigna. Cross site scripting
+     prevention with dynamic data tainting and static analysis. February
+     2007.
+
+[Volpano1996] Dennis Volpano, Cynthia Irvine, and Geoffrey Smith. A sound type
+     system for secure flow analysis. J. Comput. Secur., 4(2-3):167–187,
+     January 1996.
+
+[Zdancewic2002] Steve Zdancewic and Andrew C. Myers. Secure information flow via
+     linear continuations. Higher-Order and Symbolic Computation,
+     15(2):209–234, September 2002.
+
+[Zdancewic2003] Steve Zdancewic and Andrew C. Myers. Observational determinism for
+     concurrent program security. Computer Security Foundations
+     Workshop, IEEE, 0:29+, 2003.
+
+[Bandhakavi2010] Sruthi Bandhakavi, Samuel T. King, P. Madhusudan, and Marianne
+     Winslett. VEX: vetting browser extensions for security vulnerabilities.
+     In Proceedings of the 19th USENIX conference on Security, USENIX
+     Security’10, page 22, Berkeley, CA, USA, 2010. USENIX Association.
+
+[Barth2010] Adam Barth, Adrienne P. Felt, Prateek Saxena, and Aaron Boodman.
+     Protecting browsers from extension vulnerabilities. In Proceedings of
+     the 17th Annual Network & Distributed System Security Symposium,
+     2010.
+
+[Bohannon2010] Aaron Bohannon and Benjamin C. Pierce. Featherweight firefox:
+     formalizing the core of a web browser. In Proceedings of the 2010
+     USENIX conference on Web application development, WebApps’10,
+     page 11, Berkeley, CA, USA, 2010. USENIX Association.
+
+[Dhawan2009] Mohan Dhawan and Vinod Ganapathy. Analyzing information flow in
+     JavaScript-based browser extensions. Computer Security Applications
+     Conference, Annual, 0:382–391, 2009.
+
+[Maffeis2009b] Sergio Maffeis and Ankur Taly. Language-Based isolation of untrusted
+     JavaScript. In Proceedings of the 2009 22nd IEEE Computer Security
+     Foundations Symposium, pages 77–91, Washington, DC, USA, 2009.
+     IEEE Computer Society.
+
+[Djeric2010] Vladan Djeric and Ashvin Goel. Securing script-based extensibility in
+     web browsers. In Proceedings of the 19th USENIX conference on
+     Security, USENIX Security’10, page 23, Berkeley, CA, USA, 2010.
+     USENIX Association.
+
+[Felt2009] Adrienne P. Felt. A survey of firefox extension API use. Technical
+     report, EECS Department, UC Berkeley, October 2009.
+
+[Guarnieri2009] Salvatore Guarnieri and Benjamin Livshits. GATEKEEPER: mostly
+     static enforcement of security and reliability policies for javascript
+     code. In Proceedings of the 18th conference on USENIX security
+     symposium, SSYM’09, pages 151–168, Berkeley, CA, USA, 2009.
+     USENIX Association.
+
+[Guha2011] A. Guha, M. Fredrikson, B. Livshits, and N. Swamy. Verified security
+     for browser extensions. pages 115–130, May 2011.
+
+[Guha2009] Arjun Guha, Shriram Krishnamurthi, and Trevor Jim. Using static
+     analysis for ajax intrusion detection. In Proceedings of the 18th
+     international conference on World wide web, WWW ’09, pages
+     561–570, New York, NY, USA, 2009. ACM.
+
+[Taly2011] Ankur Taly, Úlfar Erlingsson, John C. Mitchell, Mark S. Miller, and
+     Jasvir Nagra. Automated analysis of Security-Critical JavaScript
+     APIs. In Proceedings of the 2011 IEEE Symposium on Security and
+     Privacy, SP ’11, pages 363–378, Washington, DC, USA, May 2011.
+     IEEE Computer Society.
+
+[Guha2010] Arjun Guha, Claudiu Saftoiu, and Shriram Krishnamurthi. The
+     essence of javascript. In Proceedings of the 24th European conference
+     on Object-oriented programming, ECOOP’10, pages 126–150, Berlin,
+     Heidelberg, 2010. Springer-Verlag.
+
+[Maffeis2008] Sergio Maffeis, John C. Mitchell, and Ankur Taly. An operational
+     semantics for JavaScript. In Proceedings of the 6th Asian Symposium
+     on Programming Languages and Systems, APLAS ’08, pages 307–325,
+     Berlin, Heidelberg, 2008. Springer-Verlag.
+
+[Maffeis2009] Sergio Maffeis, John C. Mitchell, and Ankur Taly. Isolating JavaScript
+     with filters, rewriting, and wrappers. In Proceedings of the 14th
+     European conference on Research in computer security, ESORICS’09,
+     pages 505–522, Berlin, Heidelberg, 2009. Springer-Verlag.
+
+[Maffeis2009a] Sergio Maffeis, John C. Mitchell, and Ankur Taly. Run-Time
+     enforcement of secure JavaScript subsets. 2009.
+
+[Politz2011] Joe G. Politz, Spiridon A. Eliopoulos, Arjun Guha, and Shriram
+     Krishnamurthi. ADsafety: type-based verification of JavaScript
+     sandboxing. In Proceedings of the 20th USENIX conference on
+     Security, SEC’11, page 12, Berkeley, CA, USA, 2011. USENIX
+     Association.
+
+
+
+
