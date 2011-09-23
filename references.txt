@@ -277,6 +277,11 @@ References
      Security, SEC’11, page 12, Berkeley, CA, USA, 2011. USENIX
      Association.
 
+[Sampson2011] Adrian Sampson, Werner Dietl, Emily Fortuna, Danushen
+    Gnanapragasam, Luis Ceze, and Dan Grossman. EnerJ: approximate
+    data types for safe and general low-power computation. SIGPLAN Not.,
+    46:164–174, June 2011.
+
 
 
 
